@@ -18,7 +18,13 @@ La instalación externa puede requerir pasos adicionales según el dispositivo, 
 - Instala la actualización sobre la versión anterior solo cuando las notas indiquen que es compatible.
 - Si aparece un error de firma o de paquete, no desinstales para forzar la actualización: podrías perder proyectos locales y borradores. Informa del error sin publicar datos privados.
 
-La candidata 0.22.17 se compiló sin depuración y conserva el certificado de las versiones anteriores, con una copia local protegida de la firma. No se ha cambiado la identidad de la aplicación. La actualización sobre una instalación existente todavía requiere una prueba en dispositivo físico antes de anunciarla como verificada.
+La candidata 0.22.18 se compiló sin depuración y conserva el certificado de las versiones anteriores, con una copia local protegida de la firma. No se ha cambiado la identidad de la aplicación. La actualización sobre una instalación existente todavía requiere una prueba en dispositivo físico antes de anunciarla como verificada.
+
+## Conectar Spotify en la beta 0.22.18
+
+Las instalaciones nuevas traen configurada la identidad de LRC Seba: pulsa **Vincular con Spotify** e inicia sesión directamente en Spotify. No necesitas crear una aplicación de desarrollador ni introducir claves. Las instalaciones que ya utilizaban una configuración personalizada la conservan.
+
+La aplicación está en **Development mode**. Antes de probar con otra persona, el propietario debe abrir su aplicación en Spotify Developers, entrar en **User Management** y agregar al participante mediante los datos de su cuenta Spotify. Existe un límite de usuarios autorizados. Si Spotify rechaza el acceso, reinstalar la APK o crear otra cuenta de Google no elimina esa restricción.
 
 ## Comprobar la descarga
 
