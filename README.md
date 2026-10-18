@@ -32,7 +32,7 @@ La [documentación de Spotify Web API](https://developer.spotify.com/documentati
 - La compilación actual requiere Android 8.0 o posterior.
 - Se preparó una candidata 0.22.18 sin depuración, con Spotify preconfigurado y la misma firma de las versiones anteriores. Todavía permanece en borrador.
 - Algunas funciones necesitan conexión a Internet y permisos que se explican en la app.
-- Antes de abrir el servicio al público se completarán la prueba de actualización, el flujo de instalación, la política de privacidad, la eliminación de cuenta y las pruebas con nuevos usuarios.
+- Antes de abrir la descarga al público se completarán las pruebas de actualización, instalación y registro con nuevos usuarios y el alcance de acceso de Spotify.
 - La sincronización en nube depende de la disponibilidad y cuotas del servicio. No se ofrece capacidad ilimitada.
 
 Consulta la [guía de instalación y actualización](docs/INSTALACION.md).
@@ -40,6 +40,12 @@ Consulta la [guía de instalación y actualización](docs/INSTALACION.md).
 ## Informar un problema
 
 Puedes abrir un [issue](https://github.com/SebaxoxMB/LRC-Seba/issues) indicando la versión de la app, versión de Android, modelo del equipo y pasos para reproducirlo. No publiques contraseñas, tokens, correos personales, respaldos privados ni letras completas de terceros.
+
+## Responsable, soporte y privacidad
+
+Responsable: **Sebastián Ignacio Macaya Burgos**. Soporte y solicitudes sobre datos: **[smb18dw@gmail.com](mailto:smb18dw@gmail.com)**.
+
+Consulta la [política de privacidad](https://lrc-seba.web.app/account/privacy.html) y el [procedimiento para solicitar acceso, corrección o eliminación](https://lrc-seba.web.app/account/eliminar-cuenta.html). Las solicitudes se tramitan manualmente, verificando la titularidad antes de actuar. Abrir la página o preparar el correo no elimina datos automáticamente. Usa ese canal privado para asuntos de cuenta.
 
 ## Avisos
 
