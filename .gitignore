@@ -1,0 +1,19 @@
+# Los binarios se adjuntan a Releases, no al historial de Git.
+*.apk
+*.idsig
+
+# Nunca publicar material de firma, configuración privada o sesiones.
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+.env
+.env.*
+credentials*.json
+service-account*.json
+sessions/
+profiles/
+node_modules/
+.DS_Store
+Thumbs.db
