@@ -30,8 +30,9 @@ La [documentación de Spotify Web API](https://developer.spotify.com/documentati
 ## Requisitos y preparación
 
 - La compilación actual requiere Android 8.0 o posterior.
+- Se preparó una candidata 0.22.17 sin depuración que conserva la firma de las versiones anteriores. Todavía permanece en borrador.
 - Algunas funciones necesitan conexión a Internet y permisos que se explican en la app.
-- Antes de abrir el servicio al público se completarán la firma de distribución, el flujo de instalación, la política de privacidad, la eliminación de cuenta y las pruebas con nuevos usuarios.
+- Antes de abrir el servicio al público se completarán la prueba de actualización, el flujo de instalación, la política de privacidad, la eliminación de cuenta y las pruebas con nuevos usuarios.
 - La sincronización en nube depende de la disponibilidad y cuotas del servicio. No se ofrece capacidad ilimitada.
 
 Consulta la [guía de instalación y actualización](docs/INSTALACION.md).
